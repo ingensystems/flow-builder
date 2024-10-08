@@ -1,8 +1,9 @@
 # Introduction
 
-English | [简体中文](https://github.com/bytedance/flow-builder/blob/main/README.zh-CN.md)
+
 
 A highly customizable streaming flow builder. The registration ability can flexibly customize your nodes, different types of node display and form, etc.
+Bassed on https://github.com/bytedance/flow-builder
 
 | ![demo1](./public/demo1-en.png) | ![demo2](./public/demo2-en.png) |
 | ------------------------------- | ------------------------------- |
